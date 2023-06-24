@@ -1,2 +1,0 @@
-# html-portofoliu
-primaOaraGitHub
